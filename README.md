@@ -37,13 +37,13 @@ I'm always learning! Right now, I'm focusing on Flutter and its ecosystem. I'm a
 ## 📫 How to reach me:
 You can reach me via Email Address, LinkedIn, Twitter. Let's connect and discuss how we can work together to build amazing Web apps!
 
-## 💬 Ask me about Springboot, Django and React
+### 💬 Ask me about Springboot, Django and React
 
-## 😄 Pronouns: he/him/his
+### 😄 Pronouns: he/him/his
 
-## ⚡ Fun fact: I'm also a React Native developer who never leaves the web 😮
+### ⚡ Fun fact: I'm also a React Native developer who never leaves the web 😮
 
-## 🌱 When I'm not coding, you can find me reading tech blogs or watching videos to learn new skills. I believe staying curious is the key to success in the fast-paced tech industry.
+### 🌱 When I'm not coding, you can find me reading tech blogs or watching videos to learn new skills. I believe staying curious is the key to success in the fast-paced tech industry.
 
 
 

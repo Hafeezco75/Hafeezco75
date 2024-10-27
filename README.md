@@ -2,11 +2,11 @@
 
 
 ## 🛠 Tech Stack
-. 💻 Django | Python | Django
-. 🌐 Web | React
-. 🛢  Spring boot | Firebase
-. 🔧 IntelliJ IDE | Git | VS Code
-. 🖥  Figma 
+- 💻 Django | Python | Django
+- 🌐 Web | React
+- 🛢  Spring boot | Firebase
+- 🔧 IntelliJ IDE | Git | VS Code
+- 🖥  Figma 
 
 
 ## 💻  My technical expertise

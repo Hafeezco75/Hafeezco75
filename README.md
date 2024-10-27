@@ -10,11 +10,11 @@
 
 
 ## 💻  My technical expertise
-. Java, Python and Go programming languages
-. Integrating RESTful APIs
-. Integrating with WebSockets
-. Firebase integration
-. Third-party libraries and APIs integration
+- Java, Python and Go programming languages
+- Integrating RESTful APIs
+- Integrating with WebSockets
+- Firebase integration
+- Third-party libraries and APIs integration
 
 ## 📚 Articles and Talks
 I enjoy discussing concepts of programming and sharing insights with others. If you're looking for a contributor or panelist for your event, please contact me!

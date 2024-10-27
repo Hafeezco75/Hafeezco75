@@ -35,7 +35,7 @@ I'm always learning! Right now, I'm focusing on Flutter and its ecosystem. I'm a
 
 
 ## 📫 How to reach me:
-You can reach me via Email Address, LinkedIn, Twitter. Let's connect and discuss how we can work together to build amazing Web apps!
+You can reach me via <a href='https://facebook.com/Abdulhafeez Odunaye'/>, LinkedIn, Twitter. Let's connect and discuss how we can work together to build amazing Web apps!
 
 ### 💬 Ask me about: 
 Springboot, Django and React

@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Odunaye Abdulhafeez, a Junior Software Engineer for Springboot, Django and React and member of Github Developers Program
+## Hi there 👋 I'm Odunaye Abdulhafeez, a Software Engineer for Springboot, Django and React and member of Github Developers Program
 
 
 ## 🛠 Tech Stack
